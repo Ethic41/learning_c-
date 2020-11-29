@@ -2,3 +2,6 @@
 *.exe
 # ignore rough files
 rough.*
+.vscode
+build
+*.i64
