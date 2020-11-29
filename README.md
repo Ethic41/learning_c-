@@ -1,2 +1,2 @@
-# learning_c-
-beginner's code in c++
+# learning_c_c++
+###beginner's code in c && c++
